@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anastasiamoiseenko
 - 👀 I’m interested in DevOps and cloud
-- 🌱 I’m currently preparing for AWS Certified Solutions Architect Certification
-- 💞️ I’m now looking for a position of Junior DevOps Engineer
+- 🌱 AWS Certified Solutions Architect
+- 💞️ I’m now looking for a position of DevOps Engineer
 - 📫 How to reach me on LinkedIn (https://www.linkedin.com/in/anastasiia-moiseienko-989973248)
 
 <!---
